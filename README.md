@@ -30,3 +30,8 @@ A C++ console-based social network simulation that uses Object-Oriented Programm
 - Dynamic Memory Allocation
 
 ## Project Structure
+Social-Network-Simulation/
+├── main.cpp
+├── README.md
+├── .gitignore
+└── screenshots/
